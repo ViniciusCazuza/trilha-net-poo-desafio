@@ -1,0 +1,50 @@
+{
+  "AppsMensagem": [
+    "WhatsApp",
+    "Telegram",
+    "Signal",
+    "Messenger",
+    "WeChat",
+    "Viber",
+    "Line",
+    "Snapchat",
+    "Google Messages",
+    "Kik"
+  ],
+  "AppsMusicas": [
+    "Spotify",
+    "Apple Music",
+    "Amazon Music",
+    "YouTube Music",
+    "Tidal",
+    "Deezer",
+    "Pandora",
+    "SoundCloud",
+    "iHeartRadio",
+    "Shazam"
+  ],
+  "AppsFotosVideos": [
+    "Instagram",
+    "Snapseed",
+    "PicsArt",
+    "VSCO",
+    "Adobe Lightroom",
+    "Canva",
+    "InShot",
+    "TikTok",
+    "Vimeo",
+    "Google Photos"
+  ],
+  "AppsRedesSociais": [
+    "Facebook",
+    "Twitter (X)",
+    "Instagram",
+    "TikTok",
+    "LinkedIn",
+    "Snapchat",
+    "Pinterest",
+    "Reddit",
+    "Tumblr",
+    "Clubhouse"
+  ]
+}
